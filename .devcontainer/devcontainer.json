@@ -1,0 +1,4 @@
+{
+  "name": "NTHUCS-OS-lab",
+  "dockerFile": "Dockerfile"
+}
